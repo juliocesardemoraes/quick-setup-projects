@@ -6,3 +6,8 @@ Este é um repositório para fazer um setup rápido de uma aplicação nodejs, r
 - Rode npm install. 
 - Rode npm run dev.
 - Sua aplicação já está rodando.
+
+# Repos
+
+- nodeTs - node com typescript eslint
+- nodeJs - node com javascript eslint
